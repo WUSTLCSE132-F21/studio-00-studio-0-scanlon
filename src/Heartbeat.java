@@ -3,7 +3,7 @@ public class Heartbeat {
 	
 	public static void main(String[] args) {
 		
-		int time = 0;
+		long time = 0;
 		
 		while (true) {
 		
